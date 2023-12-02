@@ -16,7 +16,7 @@ const PopularClass = () => {
     return (
         <section className="container mx-auto">
             <SectionTitle subHeading={'Hot'} heading={'popular class'} />
-            <div className="grid grid-cols-1 lg:grid-cols-3 px-4 lg:px-0">
+            <div className="grid grid-cols-1 lg:grid-cols-3 mx-4 lg:px-0">
                 {
                     popularClass.map((popular, index) => <PopularClassList key={index} popular={popular} />)
                 }

@@ -51,7 +51,7 @@ const NavBar = () => {
                             {navOption}
                         </ul>
                     </div>
-                    <Link to="/" className="text-xs lg:text-xl uppercase font-semibold">৪ নং বানিয়ারি সরকারি প্রাথমিক বিদ্যালয়</Link>
+                    <Link to="/" className="text-xs lg:text-xl uppercase font-semibold">৪ নং পশ্চিম বানিয়ারি সরকারি প্রাথমিক বিদ্যালয়</Link>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal uppercase font-semibold items-center">

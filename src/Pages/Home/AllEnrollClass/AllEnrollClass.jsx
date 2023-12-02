@@ -1,11 +1,10 @@
-// Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
-import 'swiper/css';
 import 'swiper/css/effect-cards';
+import 'swiper/css';
+import '../AllEnrollClass/styles.css';
 
-import './styles.css';
 // import required modules
 import { EffectCards } from 'swiper/modules';
 // import image;
@@ -80,9 +79,3 @@ const AllEnrollClass = () => {
 };
 
 export default AllEnrollClass;
-
-
-{/* <SwiperSlide className='flex flex-col relative'>
-    <img className='rounded' src={swiper1} alt="" />
-    <p className='uppercase absolute bottom-6 bg-white w-10/12 rounded-xl text-3xl font-bold text-yellow-400'>ict</p>
-</SwiperSlide> */}
