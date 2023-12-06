@@ -1,6 +1,6 @@
 
 const PopularClassList = ({ popular }) => {
-    console.log(popular);
+    // console.log(popular);
     const { image, age, email, name, phone, class_name, subject } = popular;
     return (
         <div className="flex items-center my-5 gap-4">
