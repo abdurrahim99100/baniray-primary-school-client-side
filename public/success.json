@@ -1,134 +1,134 @@
 [
-    {
-      "_id": "6569e2995dc02a9ba38e64ee",
-      "name": "Huff Malone",
-      "image": "https://i.ibb.co/1GsQSb3/little-girl-holding-her-books-1.jpg",
-      "age": 13,
-      "roll": 1,
-      "email": "huffmalone@isostream.com",
-      "phone": "+1 (978) 463-3194",
-      "address": "523 Bridge Street, Guthrie, New Mexico, 2400",
-      "about": "Esse ipsum tempor aliqua nulla velit nulla officia ullamco ea nisi quis dolore. Id labore sit elit pariatur commodo proident tempor. Fugiat dolore mollit reprehenderit consequat cillum. Excepteur commodo ipsum cillum velit amet cupidatat deserunt Lorem non et consequat.\r\n"
-    },
-    {
-      "_id": "6569e299a86ae274aae1faff",
-      "name": "Ashley Lawrence",
-      "image": "https://i.ibb.co/6gq1zwJ/medium-shot-girl-portrait-with-graduation-background-1.jpg",
-      "age": 11,
-      "roll": 2,
-      "email": "ashleylawrence@isostream.com",
-      "phone": "+1 (884) 467-2671",
-      "address": "512 Estate Road, Dargan, Alabama, 4577",
-      "about": "Ut cillum incididunt ex elit cillum. Id excepteur sit occaecat esse sint consequat duis. Voluptate ex qui officia tempor dolor labore. Magna ex sit reprehenderit Lorem in adipisicing duis sit elit adipisicing. Voluptate officia eu duis sit id sit anim ea.\r\n"
-    },
-    {
-      "_id": "6569e299e49191ef07bbee0d",
-      "name": "Tanisha Reid",
-      "image": "https://i.ibb.co/bRjZ32T/pleased-little-schoolboy-wearing-back-bag-headphones-holding-notebook-with-pen-1.jpg",
-      "age": 11,
-      "roll": 3,
-      "email": "tanishareid@isostream.com",
-      "phone": "+1 (951) 447-3982",
-      "address": "678 Troy Avenue, Woodlands, Maryland, 1283",
-      "about": "Quis magna consectetur qui pariatur culpa fugiat fugiat velit sint id Lorem. Ut ea est cillum ut deserunt laboris occaecat qui consequat cillum. Sunt commodo laborum excepteur amet non nulla. Eiusmod non incididunt laboris nulla enim cillum est ut. Esse proident nisi cillum ad officia. Eu nostrud nisi nisi enim minim laboris consequat.\r\n"
-    },
-    {
-      "_id": "6569e299294063e751d813b0",
-      "name": "Celeste Church",
-      "image": "https://i.ibb.co/Y0MgC2y/standing-suit-development-young-people-1-1.jpg",
-      "age": 12,
-      "roll": 4,
-      "email": "celestechurch@isostream.com",
-      "phone": "+1 (855) 462-2430",
-      "address": "682 Stewart Street, Curtice, South Carolina, 2686",
-      "about": "Veniam magna ad proident consectetur eiusmod id. Qui sunt minim pariatur ea tempor aute reprehenderit. Ea irure id id quis eu cillum non duis pariatur cillum laborum. Cupidatat officia quis aliquip occaecat ipsum labore laboris. Sit minim reprehenderit tempor ipsum.\r\n"
-    },
-    {
-      "_id": "6569e299f7c784e7110a9f73",
-      "name": "Nell Gay",
-      "image": "https://i.ibb.co/HNQHsjk/young-boy-with-glasses-holding-book-1.jpg",
-      "age": 13,
-      "roll": 5,
-      "email": "nellgay@isostream.com",
-      "phone": "+1 (849) 469-2411",
-      "address": "267 Schermerhorn Street, Elwood, Nevada, 8365",
-      "about": "In voluptate dolore laboris dolore labore ullamco deserunt aute. Exercitation occaecat magna velit non Lorem enim quis irure ullamco veniam anim. Sint officia non ut ex laboris. Sunt voluptate laborum cupidatat amet occaecat voluptate dolore qui est consectetur officia ex aute est. Ea do eu eu id anim non velit tempor commodo in.\r\n"
-    },
-    {
-      "_id": "6569e299628101ace8f33eb1",
-      "name": "Fitzpatrick Murray",
-      "image": "https://i.ibb.co/Bg2cB65/back-school-cute-child-schoolgirl-sitting-desk-room-1-1.jpg",
-      "age": 12,
-      "roll": 6,
-      "email": "fitzpatrickmurray@isostream.com",
-      "phone": "+1 (864) 575-3509",
-      "address": "114 Irving Place, Ypsilanti, Hawaii, 6755",
-      "about": "Aliqua voluptate commodo nulla magna. Sit incididunt pariatur duis tempor laborum elit dolor mollit. Ad pariatur mollit sunt aliqua tempor ad in ea. Exercitation excepteur nisi ea mollit irure nulla minim sunt laboris deserunt do aliqua. Cupidatat aute tempor nisi reprehenderit in labore. Dolor veniam nulla pariatur do pariatur occaecat eiusmod minim. Ullamco velit dolor eu reprehenderit anim aliquip reprehenderit adipisicing id laborum esse eiusmod.\r\n"
-    },
-    {
-      "_id": "6569e29973df9948a4601678",
-      "name": "George Gomez",
-      "image": "https://i.ibb.co/2McSCCN/boy-desk-with-apple-head-2.jpg",
-      "age": 11,
-      "roll": 7,
-      "email": "georgegomez@isostream.com",
-      "phone": "+1 (866) 546-3935",
-      "address": "223 Clermont Avenue, Riviera, Wisconsin, 1816",
-      "about": "Est aliqua velit tempor reprehenderit. Ut fugiat voluptate fugiat voluptate non laborum proident labore minim aute. Non non anim eu eu nostrud cillum excepteur ad duis aute ex consectetur. Do deserunt quis labore quis ut sunt sit nostrud enim. Ut duis qui sunt eiusmod laboris aute eiusmod consectetur esse consectetur et. Eu aliquip commodo est est et consequat aute ut esse minim pariatur exercitation amet adipisicing. Sint laboris amet dolore pariatur duis laboris ad.\r\n"
-    },
-    {
-      "_id": "6569e299cbc595d62b0519eb",
-      "name": "Craig Hunt",
-      "image": "https://i.ibb.co/WvS5788/boy-with-glasses-lecture-time-1.jpg",
-      "age": 13,
-      "roll": 8,
-      "email": "craighunt@isostream.com",
-      "phone": "+1 (957) 501-2352",
-      "address": "274 Bartlett Place, Cobbtown, South Dakota, 9053",
-      "about": "Ea amet aute deserunt laborum aliquip in excepteur sint sunt minim magna nostrud ullamco. Dolor consectetur id exercitation pariatur proident amet mollit dolor deserunt sit Lorem. Sint irure amet culpa ipsum adipisicing anim velit.\r\n"
-    },
-    {
-      "_id": "6569e299d1a503cf292a9bfd",
-      "name": "Morrison Clemons",
-      "image": "https://i.ibb.co/zm0gkNy/cute-little-girl-drawing-with-paint-paintbrush-home-1.jpg",
-      "age": 11,
-      "roll": 9,
-      "email": "morrisonclemons@isostream.com",
-      "phone": "+1 (953) 537-3743",
-      "address": "486 Stratford Road, Movico, West Virginia, 4295",
-      "about": "Magna officia minim excepteur adipisicing aliquip fugiat fugiat reprehenderit ea eiusmod cupidatat. Officia eiusmod est aute reprehenderit sint exercitation officia non fugiat nostrud magna duis incididunt voluptate. Magna consectetur Lorem do deserunt id esse. Dolore amet eu dolore est.\r\n"
-    },
-    {
-      "_id": "6569e299d226253b81fb2818",
-      "name": "Billie Lowe",
-      "image": "https://i.ibb.co/M6f0N6z/cute-little-girl-holding-books-isolated-studio-1.jpg",
-      "age": 13,
-      "roll": 10,
-      "email": "billielowe@isostream.com",
-      "phone": "+1 (980) 458-3410",
-      "address": "810 Homecrest Avenue, Thermal, Vermont, 7486",
-      "about": "Veniam incididunt aliqua irure qui minim ipsum. Pariatur excepteur cillum do non in velit. Consequat qui sint voluptate fugiat culpa excepteur veniam adipisicing est labore dolor tempor aliquip ullamco. Proident proident sit labore ad nostrud veniam. Qui ipsum reprehenderit adipisicing amet excepteur velit eu Lorem esse. Officia id ea officia duis fugiat magna proident id officia labore ea proident eu fugiat.\r\n"
-    },
-    {
-      "_id": "6569e2996ef4fe922c75538c",
-      "name": "Arnold Vang",
-      "image": "https://i.ibb.co/v4C1GSr/happy-girl-with-pencil-books-have-idea-smiling-isolated-1.jpg",
-      "age": 13,
-      "roll": 11,
-      "email": "arnoldvang@isostream.com",
-      "phone": "+1 (887) 520-2119",
-      "address": "484 Monroe Place, Bedias, Washington, 4149",
-      "about": "Non ad id esse consequat. Aute labore sint irure laborum excepteur aliqua ipsum elit exercitation. Laborum esse adipisicing sit elit nostrud quis. Commodo esse quis Lorem reprehenderit qui esse duis aliquip esse. Lorem dolore exercitation cupidatat minim reprehenderit aliquip duis ad dolore. Do ullamco nostrud mollit nostrud laboris duis cillum. Cillum exercitation aute laborum labore mollit consectetur sit.\r\n"
-    },
-    {
-      "_id": "6569e299481852b8d8be1081",
-      "name": "Keith Romero",
-      "image": "https://i.ibb.co/rvtnJGw/IMG20231016110251-1-1.jpg",
-      "age": 13,
-      "roll": 12,
-      "email": "keithromero@isostream.com",
-      "phone": "+1 (881) 567-2391",
-      "address": "996 Cove Lane, Edgewater, Rhode Island, 3718",
-      "about": "Nisi laboris dolore ex veniam. Proident officia officia ipsum laborum dolore mollit commodo. Velit eu commodo non ut sint ipsum amet sit reprehenderit sit in ad. Proident sunt deserunt fugiat duis reprehenderit ex. Excepteur amet ipsum sunt culpa sint proident ea sint nostrud aliqua deserunt.\r\n"
-    }
-  ]
+  {
+    "id": "6569e2995dc02a9ba38e64ee",
+    "name": "Huff Malone",
+    "image": "https://i.ibb.co/1GsQSb3/little-girl-holding-her-books-1.jpg",
+    "age": 13,
+    "roll": 1,
+    "email": "huffmalone@isostream.com",
+    "phone": "+1 (978) 463-3194",
+    "address": "523 Bridge Street, Guthrie, New Mexico, 2400",
+    "about": "Huff is a bright and energetic student with a great curiosity for learning. He enjoys engaging in various activities and has a sharp mind for understanding new concepts."
+  },
+  {
+    "id": "6569e299a86ae274aae1faff",
+    "name": "Ashley Lawrence",
+    "image": "https://i.ibb.co/6gq1zwJ/medium-shot-girl-portrait-with-graduation-background-1.jpg",
+    "age": 11,
+    "roll": 2,
+    "email": "ashleylawrence@isostream.com",
+    "phone": "+1 (884) 467-2671",
+    "address": "512 Estate Road, Dargan, Alabama, 4577",
+    "about": "Ashley is an enthusiastic learner who loves to explore new topics and is always eager to help her classmates."
+  },
+  {
+    "id": "6569e299e49191ef07bbee0d",
+    "name": "Tanisha Reid",
+    "image": "https://i.ibb.co/bRjZ32T/pleased-little-schoolboy-wearing-back-bag-headphones-holding-notebook-with-pen-1.jpg",
+    "age": 11,
+    "roll": 3,
+    "email": "tanishareid@isostream.com",
+    "phone": "+1 (951) 447-3982",
+    "address": "678 Troy Avenue, Woodlands, Maryland, 1283",
+    "about": "Tanisha is a dedicated student who loves reading and enjoys participating in group projects."
+  },
+  {
+    "id": "6569e299294063e751d813b0",
+    "name": "Celeste Church",
+    "image": "https://i.ibb.co/Y0MgC2y/standing-suit-development-young-people-1-1.jpg",
+    "age": 12,
+    "roll": 4,
+    "email": "celestechurch@isostream.com",
+    "phone": "+1 (855) 462-2430",
+    "address": "682 Stewart Street, Curtice, South Carolina, 2686",
+    "about": "Celeste is an ambitious student with a keen interest in science and mathematics. She often leads study groups and helps her peers."
+  },
+  {
+    "id": "6569e299f7c784e7110a9f73",
+    "name": "Nell Gay",
+    "image": "https://i.ibb.co/HNQHsjk/young-boy-with-glasses-holding-book-1.jpg",
+    "age": 13,
+    "roll": 5,
+    "email": "nellgay@isostream.com",
+    "phone": "+1 (849) 469-2411",
+    "address": "267 Schermerhorn Street, Elwood, Nevada, 8365",
+    "about": "Nell is an inquisitive learner who enjoys discussing new ideas and participating in debates."
+  },
+  {
+    "id": "6569e299628101ace8f33eb1",
+    "name": "Fitzpatrick Murray",
+    "image": "https://i.ibb.co/Bg2cB65/back-school-cute-child-schoolgirl-sitting-desk-room-1-1.jpg",
+    "age": 12,
+    "roll": 6,
+    "email": "fitzpatrickmurray@isostream.com",
+    "phone": "+1 (864) 575-3509",
+    "address": "114 Irving Place, Ypsilanti, Hawaii, 6755",
+    "about": "Fitzpatrick is a creative thinker with a passion for art and design. She loves expressing herself through various mediums."
+  },
+  {
+    "id": "6569e29973df9948a4601678",
+    "name": "George Gomez",
+    "image": "https://i.ibb.co/2McSCCN/boy-desk-with-apple-head-2.jpg",
+    "age": 11,
+    "roll": 7,
+    "email": "georgegomez@isostream.com",
+    "phone": "+1 (866) 546-3935",
+    "address": "223 Clermont Avenue, Riviera, Wisconsin, 1816",
+    "about": "George is a friendly and sociable student who enjoys making new friends and participating in team sports."
+  },
+  {
+    "id": "6569e299cbc595d62b0519eb",
+    "name": "Craig Hunt",
+    "image": "https://i.ibb.co/WvS5788/boy-with-glasses-lecture-time-1.jpg",
+    "age": 13,
+    "roll": 8,
+    "email": "craighunt@isostream.com",
+    "phone": "+1 (957) 501-2352",
+    "address": "274 Bartlett Place, Cobbtown, South Dakota, 9053",
+    "about": "Craig is an analytical student who enjoys mathematics and coding. He aspires to become an engineer in the future."
+  },
+  {
+    "id": "6569e299d1a503cf292a9bfd",
+    "name": "Morrison Clemons",
+    "image": "https://i.ibb.co/zm0gkNy/cute-little-girl-drawing-with-paint-paintbrush-home-1.jpg",
+    "age": 11,
+    "roll": 9,
+    "email": "morrisonclemons@isostream.com",
+    "phone": "+1 (953) 537-3743",
+    "address": "486 Stratford Road, Movico, West Virginia, 4295",
+    "about": "Morrison has a vivid imagination and loves storytelling. She enjoys sharing her stories with her classmates."
+  },
+  {
+    "id": "6569e299226253b81fb2818",
+    "name": "Billie Lowe",
+    "image": "https://i.ibb.co/M6f0N6z/cute-little-girl-holding-books-isolated-studio-1.jpg",
+    "age": 13,
+    "roll": 10,
+    "email": "billielowe@isostream.com",
+    "phone": "+1 (980) 458-3410",
+    "address": "810 Homecrest Avenue, Thermal, Vermont, 7486",
+    "about": "Billie is a dedicated student who loves reading and excels in literature."
+  },
+  {
+    "id": "6569e2996ef4fe922c75538c",
+    "name": "Arnold Vang",
+    "image": "https://i.ibb.co/v4C1GSr/happy-girl-with-pencil-books-have-idea-smiling-isolated-1.jpg",
+    "age": 13,
+    "roll": 11,
+    "email": "arnoldvang@isostream.com",
+    "phone": "+1 (887) 520-2119",
+    "address": "484 Monroe Place, Bedias, Washington, 4149",
+    "about": "Arnold is a bright student with a passion for learning new languages and cultures."
+  },
+  {
+    "id": "6569e299481852b8d8be1081",
+    "name": "Keith Romero",
+    "image": "https://i.ibb.co/rvtnJGw/IMG20231016110251-1-1.jpg",
+    "age": 13,
+    "roll": 12,
+    "email": "keithromero@isostream.com",
+    "phone": "+1 (881) 567-2391",
+    "address": "996 Cove Lane, Edgewater, Rhode Island, 3718",
+    "about": "Keith is a motivated student who participates in various extracurricular activities and strives for academic excellence."
+  }
+]

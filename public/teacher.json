@@ -1,110 +1,90 @@
 [
     {
-      "_id": "656dd13263fe581aeb41064b",
-      "name": "Ashutosh Roy",
-      "subject": [
-        {
-          "bangla": "Bangla",
-          "english": "English",
-          "math": "Math",
-          "science": "Science"
-        }
-      ],
-      "image": "https://i.ibb.co/t27mVSS/teacher4.jpg",
-      "age": 34,
-      "email": "jayneelliott@songlines.com",
-      "phone": "+1 (875) 556-2287",
-      "address": "799 Conway Street, Greenwich, Vermont, 165",
-      "about": "Anim culpa dolore cillum excepteur fugiat fugiat magna excepteur. Est do pariatur deserunt do exercitation amet consectetur nulla cupidatat. Minim proident id aliqua nisi non labore qui in occaecat.\r\n"
+        "id": "1",
+        "name": "Ashutosh Roy",
+        "subject": ["Bangla", "Math", "Science"],
+        "image": "https://i.ibb.co/t27mVSS/teacher4.jpg",
+        "age": 34,
+        "email": "jayneelliott@songlines.com",
+        "phone": "+1 (875) 556-2287",
+        "address": "799 Conway Street, Greenwich, Vermont, 165",
+        "about": "Anim culpa dolore cillum excepteur fugiat fugiat magna excepteur. Est do pariatur deserunt do exercitation amet consectetur nulla cupidatat. Minim proident id aliqua nisi non labore qui in occaecat.\r\n"
     },
     {
-      "_id": "656dd1321470fb1358c77982",
-      "name": "Geas Uddin",
-      "subject": [
-        {
-          "bangla": "Bangla",
-          "english": "English",
-          "math": "Math",
-          "science": "Science"
-        }
-      ],
-      "image": "https://i.ibb.co/z6L2kyc/teacher5.jpg",
-      "age": 39,
-      "email": "katyroach@songlines.com",
-      "phone": "+1 (965) 462-3003",
-      "address": "356 Batchelder Street, Deercroft, American Samoa, 1585",
-      "about": "Sit fugiat laboris esse labore velit veniam irure eiusmod incididunt. Aliquip consequat nisi deserunt incididunt id occaecat irure voluptate irure. Eu proident officia nulla irure qui labore velit velit aliqua incididunt. Sunt duis commodo velit velit velit voluptate fugiat laborum mollit aliqua officia duis. Irure voluptate adipisicing ea in ex ea.\r\n"
+        "id": "2",
+        "name": "Geas Uddin",
+        "subject": ["English", "History", "Geography"],
+        "image": "https://i.ibb.co/z6L2kyc/teacher5.jpg",
+        "age": 39,
+        "email": "katyroach@songlines.com",
+        "phone": "+1 (965) 462-3003",
+        "address": "356 Batchelder Street, Deercroft, American Samoa, 1585",
+        "about": "Sit fugiat laboris esse labore velit veniam irure eiusmod incididunt. Aliquip consequat nisi deserunt incididunt id occaecat irure voluptate irure.\r\n"
     },
     {
-      "_id": "656dd13295c5aa74aecbf000",
-      "name": "Shilpi Heera",
-      "subject": [
-        {
-          "bangla": "Bangla",
-          "english": "English",
-          "math": "Math",
-          "science": "Science"
-        }
-      ],
-      "image": "https://i.ibb.co/MNPW7Ky/teacher3.jpg",
-      "age": 35,
-      "email": "sharpforeman@songlines.com",
-      "phone": "+1 (857) 548-3420",
-      "address": "119 Newton Street, Valmy, Virgin Islands, 3193",
-      "about": "Elit sit Lorem quis mollit cillum proident nisi consequat qui fugiat aute. Et eu mollit anim est irure qui. Proident nulla quis amet veniam qui irure occaecat incididunt exercitation ad consectetur tempor dolor eu. Officia ea amet aliquip officia et magna anim do. Cillum elit anim sunt sint ullamco.\r\n"
+        "id": "3",
+        "name": "Shilpi Heera",
+        "subject": ["Math", "Physics", "Chemistry"],
+        "image": "https://i.ibb.co/MNPW7Ky/teacher3.jpg",
+        "age": 35,
+        "email": "sharpforeman@songlines.com",
+        "phone": "+1 (857) 548-3420",
+        "address": "119 Newton Street, Valmy, Virgin Islands, 3193",
+        "about": "Elit sit Lorem quis mollit cillum proident nisi consequat qui fugiat aute. Proident nulla quis amet veniam qui irure occaecat incididunt exercitation ad consectetur tempor dolor eu.\r\n"
     },
     {
-      "_id": "656dd1323c9d99da7e12ee59",
-      "name": "Pankaj Kumar Roy",
-      "subject": [
-        {
-          "bangla": "Bangla",
-          "english": "English",
-          "math": "Math",
-          "science": "Science"
-        }
-      ],
-      "image": "https://i.ibb.co/PW87c5D/teacher1.jpg",
-      "age": 34,
-      "email": "jerribauer@songlines.com",
-      "phone": "+1 (963) 447-3124",
-      "address": "314 McKinley Avenue, Federated States Of Micronesia, 4055",
-      "about": "Nisi sunt ea ullamco magna in duis aute ea culpa excepteur excepteur exercitation ut. Mollit nulla adipisicing sunt amet. Exercitation culpa labore commodo nulla magna mollit sit ipsum qui est id Lorem velit. Quis id nisi adipisicing fugiat commodo non reprehenderit id reprehenderit ex.\r\n"
+        "id": "4",
+        "name": "Pankaj Kumar Roy",
+        "subject": ["Science", "Biology", "Math"],
+        "image": "https://i.ibb.co/PW87c5D/teacher1.jpg",
+        "age": 34,
+        "email": "jerribauer@songlines.com",
+        "phone": "+1 (963) 447-3124",
+        "address": "314 McKinley Avenue, Federated States Of Micronesia, 4055",
+        "about": "Nisi sunt ea ullamco magna in duis aute ea culpa excepteur exercitation ut. Exercitation culpa labore commodo nulla magna mollit sit ipsum qui est id Lorem velit.\r\n"
     },
     {
-      "_id": "656dd1325597b5355e7e7586",
-      "name": "Jhorna Akter",
-      "subject": [
-        {
-          "bangla": "Bangla",
-          "english": "English",
-          "math": "Math",
-          "science": "Science"
-        }
-      ],
-      "image": "https://i.ibb.co/GThGWmb/teacher2.jpg",
-      "age": 39,
-      "email": "albaluna@songlines.com",
-      "phone": "+1 (814) 540-2283",
-      "address": "501 Woods Place, Swartzville, Guam, 5565",
-      "about": "Eu ullamco sint laboris nisi ut reprehenderit quis incididunt ea excepteur enim. Dolore aute cillum ullamco ipsum aliqua adipisicing id voluptate cillum adipisicing. Laborum mollit sunt do ea quis non. Tempor mollit excepteur ea mollit proident consequat elit consectetur dolor non commodo non laboris aliqua. Occaecat labore adipisicing elit incididunt eiusmod culpa sit consequat sit sint officia pariatur ipsum est. Lorem exercitation Lorem officia amet nisi. Ea amet commodo ipsum minim quis incididunt tempor consectetur aliquip ex.\r\n"
+        "id": "5",
+        "name": "Jhorna Akter",
+        "subject": ["English", "History", "Science"],
+        "image": "https://i.ibb.co/GThGWmb/teacher2.jpg",
+        "age": 39,
+        "email": "albaluna@songlines.com",
+        "phone": "+1 (814) 540-2283",
+        "address": "501 Woods Place, Swartzville, Guam, 5565",
+        "about": "Eu ullamco sint laboris nisi ut reprehenderit quis incididunt ea excepteur enim. Laborum mollit sunt do ea quis non.\r\n"
     },
     {
-      "_id": "656dd13263fe581aeb41064b",
-      "name": "Ashutosh Roy",
-      "subject": [
-        {
-          "bangla": "Bangla",
-          "english": "English",
-          "math": "Math",
-          "science": "Science"
-        }
-      ],
-      "image": "https://i.ibb.co/t27mVSS/teacher4.jpg",
-      "age": 34,
-      "email": "jayneelliott@songlines.com",
-      "phone": "+1 (875) 556-2287",
-      "address": "799 Conway Street, Greenwich, Vermont, 165",
-      "about": "Anim culpa dolore cillum excepteur fugiat fugiat magna excepteur. Est do pariatur deserunt do exercitation amet consectetur nulla cupidatat. Minim proident id aliqua nisi non labore qui in occaecat.\r\n"
+        "id": "6",
+        "name": "Anika Rahman",
+        "subject": ["Bangla", "English", "Art"],
+        "image": "https://i.ibb.co/MNPW7Ky/teacher3.jpg",
+        "age": 32,
+        "email": "anika.rahman@school.com",
+        "phone": "+1 (844) 777-2331",
+        "address": "22 Maple Avenue, New York, USA, 10023",
+        "about": "Anika is passionate about empowering students through education. She has been teaching for over 10 years and specializes in creating a collaborative and inclusive classroom environment.\r\n"
+    },
+    {
+        "id": "7",
+        "name": "Rahul Bose",
+        "subject": ["Physics", "Math", "Computer Science"],
+        "image": "https://i.ibb.co/PW87c5D/teacher1.jpg",
+        "age": 36,
+        "email": "rahul.bose@school.com",
+        "phone": "+1 (854) 999-5542",
+        "address": "456 Willow Street, Ontario, Canada, 44321",
+        "about": "Rahul has a strong background in educational psychology and integrates mental wellness into his teaching practice. His goal is to help students balance academic rigor with personal well-being.\r\n"
+    },
+    {
+        "id": "8",
+        "name": "Ashutosh Roy",
+        "subject": ["English", "Math", "Science"],
+        "image": "https://i.ibb.co/t27mVSS/teacher4.jpg",
+        "age": 34,
+        "email": "jayneelliott@songlines.com",
+        "phone": "+1 (875) 556-2287",
+        "address": "799 Conway Street, Greenwich, Vermont, 165",
+        "about": "Anim culpa dolore cillum excepteur fugiat fugiat magna excepteur. Est do pariatur deserunt do exercitation amet consectetur nulla cupidatat.\r\n"
     }
-  ]
+]

@@ -1,22 +1,31 @@
-import UpComing from "../Shared/UpComing/UpComing";
-// import AllEnrollClass from "./AllEnrollClass/AllEnrollClass";
+import { Helmet } from "react-helmet-async";
 import Banner from "./Banner/Banner";
-import ContactUs from "./ContactUs/ContactUs";
-import PopularClass from "./PopularClass/PopularClass";
-import SuccessStory from "./SuccessStory/SuccessStory";
-import Teacher from "./Teacher/Teacher";
+// import UpComing from "../Shared/UpComing/UpComing";
+// import OurImpact from "./OurImpact/OurImpact";
+// import Teacher from "./Teacher/Teacher";
+import BriefIntroduction from "./BriefIntroduction/BriefIntroduction";
+import NoticeBoard from "./NoticeBoard/NoticeBoard";
+import OurEvents from "./OurEvents/OurEvents";
+import HomeGallery from "./HomeGallery/HomeGallery";
+import Links from "./Links/Links";
+import OurImpact from "./OurImpact/OurImpact";
 
 const Home = () => {
     return (
-        <div>
-            <Banner />
-            <SuccessStory />
-            {/* <AllEnrollClass /> */}
-            <PopularClass />
-            <ContactUs />
-            <UpComing />
-            <Teacher />
-        </div>
+        <>
+            <Helmet>
+                <title>BPS | Home</title>
+            </Helmet>
+            <section className="pt-[64px]">
+                <Banner />
+                <BriefIntroduction />
+                <NoticeBoard />
+                <OurImpact />
+                <OurEvents />
+                <HomeGallery />
+                <Links />
+            </section>
+        </>
     );
 };
 
