@@ -1,9 +1,12 @@
 import { Link } from "react-router-dom";
 import useAuth from "../../../Hooks/useAuth";
+import useTeachers from "../../../Hooks/useTeacher";
 
 const NavBar = () => {
 
     const { user, signOutUser } = useAuth();
+    const [isTeachers] = useTeachers();
+    console.log('is teacher', isTeachers);
 
     const handleLogOut = () => {
         signOutUser()
@@ -15,11 +18,19 @@ const NavBar = () => {
             });
     };
 
-
     const navOption = <>
         <li>
             <Link to="/">home</Link>
         </li>
+        {
+            user && isTeachers &&
+            <li><Link to="/dashboard/teachers-home">dashboard</Link></li>
+        }
+        {
+            user && !isTeachers &&
+            <li><Link to="/dashboard/student-home">dashboard</Link></li>
+        }
+
         <li>
             <Link to="/blog">blog</Link>
         </li>

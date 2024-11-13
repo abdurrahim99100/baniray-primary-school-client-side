@@ -5,10 +5,13 @@ const useClasses = () => {
     const { data: classes = [], refetch } = useQuery({
         queryKey: ['classes'],
         queryFn: async () => {
-            const res = await axiosPublic.get('classes');
-            console.log(res)
-            return res.data;
-        }
+            try {
+                const response = await axiosPublic.get('classes');
+                return response.data;
+            } catch (error) {
+                console.log(error)
+            }
+        },
     })
     return [classes, refetch];
 };

@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 const StudentClass = ({ item }) => {
-    console.log('single items', item)
+    // console.log('single items', item)
     const { image, subject, teacher, details, materialsNeeded, schedule } = item;
     return (
         <div className="rounded overflow-hidden shadow-lg">

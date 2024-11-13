@@ -14,6 +14,14 @@ import StudentResource from "../Pages/StudentResource/StudentResource";
 import Admission from "../Pages/Admission/Admission";
 import AdmissionForm from "../Pages/Admission/AdmissionForm/AdmissionForm";
 import EventsAndNews from "../Pages/EventsAndNews/EventsAndNews";
+import DashboardLayout from "../Layout/DashboardLayout";
+import PrivateRoute from "./PrivateRoute";
+import DashboardStudentHome from "../Pages/Dashboard/DashboardStudent/DashboardStudentHome";
+import DashboardTeachersClassManagement from "../Pages/Dashboard/DashboardTeachers/DashboardTeachersClassManagement";
+import DashboardTeachersHome from "../Pages/Dashboard/DashboardTeachers/DashboardTeachersHome";
+import DashboardTeachersAllUsers from "../Pages/Dashboard/DashboardTeachers/DashboardTeachersAllUsers";
+import DashboardTeachersClassUpdate from "../Pages/Dashboard/DashboardTeachers/DashboardTeachersClassUpdate";
+import DashboardTeachersCreateClass from "../Pages/Dashboard/DashboardTeachers/DashboardTeachersCreateClass";
 
 export const router = createBrowserRouter([
     {
@@ -73,4 +81,40 @@ export const router = createBrowserRouter([
             }
         ],
     },
+    // dashboard routes
+    {
+        path: 'dashboard',
+        element: <DashboardLayout />,
+        children: [
+            // admin routs
+
+            // teachers routs
+            {
+                path: 'teachers-home',
+                element: <DashboardTeachersHome />
+            },
+            {
+                path: 'teachers-class-management',
+                element: <DashboardTeachersClassManagement />
+            },
+            {
+                path: 'teachers-create-new-class',
+                element: <DashboardTeachersCreateClass />
+            },
+            {
+                path: 'teachers-class-update/:id',
+                element: <DashboardTeachersClassUpdate />,
+                loader: ({ params }) => fetch(`http://localhost:5000/classes/${params.id}`)
+            },
+            {
+                path: 'teachers-all-users',
+                element: <DashboardTeachersAllUsers />
+            },
+            // student routs
+            {
+                path: 'student-home',
+                element: <PrivateRoute><DashboardStudentHome /></PrivateRoute>
+            },
+        ]
+    }
 ]);

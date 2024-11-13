@@ -10,7 +10,7 @@ import classBannerImage from "../../assets/banner/class-banner.png"
 const Academic = () => {
 
     const [classes] = useClasses();
-    console.log(classes)
+    // console.log(classes)
 
     const classOne = classes.filter(items => items.class === 'Class One');
     const classTwo = classes.filter(items => items.class === 'Class Two');

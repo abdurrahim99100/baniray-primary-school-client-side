@@ -47,6 +47,7 @@ const AuthProviders = ({ children }) => {
                     .then(res => {
                         if (res.data) {
                             localStorage.setItem('access-token', res.data);
+                            // console.log('set token', res.data);
                             setLoading(false);
                         }
                     })

@@ -1,18 +1,19 @@
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 // import Swal from "sweetalert2";
 import useAuth from "../../Hooks/useAuth";
 import SocialLogin from "../Shared/SocialLogin/SocialLogin";
 import { Helmet } from "react-helmet-async";
 import useAxiosPublic from "../../Hooks/useAxiosPublic";
+import Swal from "sweetalert2";
 
 const SignUp = () => {
 
     const { createUser } = useAuth();
-    // const navigate = useNavigate();
+    const navigate = useNavigate();
     const axiosPublic = useAxiosPublic();
 
-    const { register, handleSubmit } = useForm();
+    const { register, handleSubmit, reset } = useForm();
 
     const onSubmit = async (data) => {
         const email = data.email;
@@ -30,7 +31,17 @@ const SignUp = () => {
                 };
 
                 const response = await axiosPublic.post('/user', userInfo);
-                console.log(response)
+                if (response?.data?.insertedId) {
+                    navigate('/')
+                    Swal.fire({
+                        position: "center",
+                        icon: "success",
+                        title: "User has been saved",
+                        showConfirmButton: false,
+                        timer: 1100
+                    });
+                    reset();
+                }
             }
         } catch (error) {
             console.log(error)
